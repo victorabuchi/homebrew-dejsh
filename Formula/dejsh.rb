@@ -7,7 +7,7 @@ class Dejsh < Formula
 
   def install
     bin.install "dejsh"
-    generate_completions_from_executable(bin/"dejsh", "completion", shells: [:bash, :zsh, :fish], shell_parameter_format: :arg)
+    generate_completions_from_executable(bin/"dejsh", "completion", shells: [:bash, :zsh, :fish])
   end
 
   test do
