@@ -1,7 +1,7 @@
-# homebrew-hindsh
+# homebrew-dejsh
 
-Homebrew tap for [hindsh](https://github.com/victorabuchi/hindsh).
+Homebrew tap for [dejsh](https://github.com/victorabuchi/dejsh).
 
 ```sh
-brew install victorabuchi/hindsh/hindsh
+brew install victorabuchi/dejsh/dejsh
 ```
