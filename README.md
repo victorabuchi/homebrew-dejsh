@@ -1,7 +1,7 @@
-# homebrew-strata
+# homebrew-hindsh
 
-Homebrew tap for [strata](https://github.com/victorabuchi/strata).
+Homebrew tap for [hindsh](https://github.com/victorabuchi/hindsh).
 
 ```sh
-brew install victorabuchi/strata/strata
+brew install victorabuchi/hindsh/hindsh
 ```
